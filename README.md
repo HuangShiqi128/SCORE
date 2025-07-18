@@ -4,24 +4,20 @@
 
 <div align="center">
   <p>
-    <a href="https://arxiv.org/abs/2507.12857v1">
-      <img src="https://img.shields.io/badge/arXiv-SCORE-b31b1b.svg">
-    </a>
-    <a href="https://arxiv.org/pdf/2507.12857v1">
-      <img src="https://img.shields.io/badge/PDF-8A2BE2">
-    </a>
+    <a href="https://arxiv.org/abs/2507.12857v1"><img src="https://img.shields.io/badge/arXiv-SCORE-b31b1b.svg"></a>
+    <a href="https://arxiv.org/pdf/2507.12857v1"><img src="https://img.shields.io/badge/PDF-8A2BE2"></a>
   </p>
 </div>
 
 This repository contains code for our **ICCV2025** paper: 
-> [**SCORE**: **S**cene **C**ontext Matters in **O**pen-Vocabulary **Re**mote Sensing Instance Segmentation](https://arxiv.org/abs/2507.12857v1).
-> Shiqi Huang, Shuting He, Huaiyuan Qin, Bihan Wen
+> [**SCORE**: **S**cene **C**ontext Matters in **O**pen-Vocabulary **Re**mote Sensing Instance Segmentation](https://arxiv.org/abs/2507.12857v1)<br>
+> Shiqi Huang, Shuting He, Huaiyuan Qin, Bihan Wen<br>
 > ICCV 2025
 
-TODO List ✅
-[] Modules implementation
-[] Dataset release
-[] Main code release
+## TODO List ✅
+- [ ] Modules implementation
+- [ ] Dataset release
+- [ ] Main code release
 
 ## BibTeX
 Please consider to cite SCORE if it helps your research.
