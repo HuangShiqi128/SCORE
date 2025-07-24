@@ -9,10 +9,10 @@
   </p>
 </div>
 
-This repository contains code for our **ICCV2025** paper: 
+This repository contains code for our **ICCV2025 Highlight** paper: 
 > [**SCORE**: **S**cene **C**ontext Matters in **O**pen-Vocabulary **Re**mote Sensing Instance Segmentation](https://arxiv.org/abs/2507.12857v1)<br>
 > Shiqi Huang, Shuting He, Huaiyuan Qin, Bihan Wen<br>
-> ICCV 2025
+> ICCV 2025 (Highlight)
 
 ## TODO List ✅
 - [ ] Modules implementation
