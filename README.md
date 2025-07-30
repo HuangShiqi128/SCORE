@@ -4,8 +4,8 @@
 
 <div align="center">
   <p>
-    <a href="https://arxiv.org/abs/2507.12857v1"><img src="https://img.shields.io/badge/arXiv-SCORE-b31b1b.svg"></a>
-    <a href="https://arxiv.org/pdf/2507.12857v1"><img src="https://img.shields.io/badge/PDF-8A2BE2"></a>
+    <a href="https://arxiv.org/abs/2507.12857"><img src="https://img.shields.io/badge/arXiv-SCORE-b31b1b.svg"></a>
+    <a href="https://arxiv.org/pdf/2507.12857"><img src="https://img.shields.io/badge/PDF-8A2BE2"></a>
   </p>
 </div>
 
